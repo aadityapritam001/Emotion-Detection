@@ -1,2 +1,2 @@
 # Emotion-Detection
-Detect Image either Happy Or Unhappy
+Detect Image either Person is Happy Or Unhappy
